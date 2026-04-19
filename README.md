@@ -7,7 +7,7 @@
 ---
 
 ### 🧐 About Me
-I am a Software Engineering student at **IIIT Nagpur** with a strong focus on **system design, distributed systems, and full-stack development**. I specialize in building **scalable backends, real-time systems, and cloud-native platforms** with an emphasis on performance, reliability, and clean architecture.
+I am a currently **Project Trainee@ZOHO** and Computer Engineering student at **IIIT Nagpur** with a strong focus on **system design, distributed systems, and full-stack development**. I specialize in building **scalable backends, real-time systems, and cloud-native platforms** with an emphasis on performance, reliability, and clean architecture.
 
 - 🔭 **Currently:** Designing **node orchestration & scheduling systems** for Edge Computing at **Zoho Corporation**.
 - 🧠 **Core Strengths:** System Design • Distributed Systems • Backend Architecture • Full-Stack Development (MERN)

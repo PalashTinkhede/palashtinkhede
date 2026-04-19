@@ -26,12 +26,12 @@ I am a currently **Project Trainee@ZOHO** and Computer Engineering student at **
 ## 📊 My GitHub Analytics
 
 <p align="center">
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=PalashTinkhede&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800" />
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PalashTinkhede&layout=compact&theme=radical&hide=html,css&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PalashTinkhede&show_icons=true&theme=radical&count_private=true&include_all_commits=false&cache_seconds=86400" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PalashTinkhede&layout=compact&theme=radical&hide=html,css&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PalashTinkhede&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=PalashTinkhede&theme=radical" />
 </p>
 
 ---

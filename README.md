@@ -84,4 +84,3 @@ I am a currently **Project Trainee@ZOHO** and Computer Engineering student at **
 <p align="center">
   <i>Open to SDE roles, backend engineering, and distributed systems opportunities.</i>
 </p>
-

@@ -26,7 +26,7 @@ I am a currently **Project Trainee@ZOHO** and Computer Engineering student at **
 ## 📊 My GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PalashTinkhede&show_icons=true&theme=radical&count_private=true&include_all_commits=false&cache_seconds=86400" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PalashTinkhede&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=86400" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PalashTinkhede&layout=compact&theme=radical&hide=html,css&cache_seconds=86400" />
 </p>
 
